@@ -1,1 +1,3 @@
-print("done !")
+import discord
+
+client = discord.Client()
